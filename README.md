@@ -1,87 +1,19 @@
-# Devopstrio Landing Zone Accelerator
+﻿<div align="center">
 
-## Cloud Foundations for Azure, AWS, GCP, AI & DevOps
+<img src="https://raw.githubusercontent.com/Devopstrio/.github/main/assets/Browser_logo.png" height="60" alt="Devopstrio Logo" />
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
-![Quality](https://img.shields.io/badge/quality-enterprise-gold.svg)
+<h3>Devopstrio &nbsp;Â·&nbsp; Enterprise Cloud Â· AI Â· DevOps Acceleration</h3>
 
-**Devopstrio Landing Zone Accelerator** is a production-ready repository designed to help enterprises deploy scalable, secure, and governed multi-cloud environments in record time. Based on the Cloud Adoption Framework (CAF) and Well-Architected principles, our blueprints ensure you start with a "GenAI Ready" foundation.
+<p>
+  <a href="https://devopstrio.co.uk/"><img src="https://img.shields.io/badge/ðŸŒ_Website-devopstrio.co.uk-522c72?style=flat-square&labelColor=000000" alt="Website"/></a>
+  <a href="https://github.com/orgs/devopstrio/repositories"><img src="https://img.shields.io/badge/ðŸ“¦_Repos-18_Public-962964?style=flat-square&labelColor=000000" alt="Repos"/></a>
+  <a href="https://www.linkedin.com/company/devopstrioglobal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ce2453?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/></a>
+  <a href="mailto:info@devopstrioglobal.com"><img src="https://img.shields.io/badge/Email-Contact_Us-e79e57?style=flat-square&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/></a>
+  <a href="https://github.com/Devopstrio/.github/blob/main/assets/COMPANY_PROFILE.pdf"><img src="https://img.shields.io/badge/ðŸ“„_Company_Profile-Download_PDF-dd5c54?style=flat-square&labelColor=000000" alt="Company Profile"/></a>
+</p>
 
----
+> *Building the future of enterprise infrastructure â€” one blueprint at a time.*
 
-## 🚀 Why a Landing Zone?
-
-In the modern enterprise, agility must not come at the cost of security. A Landing Zone is a multi-subscription/account environment that serves as the "platform" for your workloads.
-
-- **Scale**: Automated resource governance.
-- **Security**: Built-in zero-trust networking and identity.
-- **Compliance**: Policy-driven guardrails (NIST, ISO, HIPAA).
-- **AI-Ready**: Pre-configured secure networking for OpenAI, Bedrock, and Vertex AI.
+</div>
 
 ---
-
-## 📁 Repository Structure
-
-```text
-devopstrio-landing-zone/
-├── 📘 docs/              # Executive, Architecture, and Delivery Guides
-├── 🟦 azure/             # Azure-specific Bicep & Terraform templates
-├── 🟧 aws/               # AWS-specific Landing Zone foundations
-├── 🟥 gcp/               # GCP Modernization blueprints
-├── 🧱 modules/           # Reusable IaC (Networking, Identity, Security)
-├── ⚙️ pipelines/         # CI/CD (GitHub Actions, Azure DevOps)
-├── 🤖 ai-landing-zone/   # Specialized GenAI infrastructure patterns
-├── 📊 data-landing-zone/ # Lakehouse & Microsoft Fabric foundations
-└── 💡 examples/          # Enterprise-scale use cases
-```
-
----
-
-## ⚡ Supported Cloud Platforms
-
-- **Azure**: Hub-and-Spoke, Virtual WAN, Private Link, and Azure Policy foundations.
-- **AWS**: Control Tower customization, VPC nesting, and IAM Identity Center.
-- **GCP**: Folder-level hierarchy, VPC Service Controls, and Organization Policy.
-
----
-
-## 🛡️ Core Capabilities
-
-- **Identity**: Centralized AD/IAM integration with Just-In-Time access.
-- **Networking**: Micro-segmentation, firewalling, and private connectivity.
-- **Governance**: Automated cost alerting, tagging, and drift detection.
-- **Zero Trust**: Identity-based perimeters and encrypted traffic.
-
----
-
-## 🤖 AI & Data Advantage
-
-Our Landing Zones are built for the future:
-- **Securing LLMs**: Private endpoints for AI services.
-- **MLOps**: Automated environment provisioning for data scientists.
-- **Data Governance**: Secure landing zones for Databricks and Fabric.
-
----
-
-## 📦 Commercial Packages
-
-| Starter | Build | Managed |
-| :--- | :--- | :--- |
-| **2 Weeks Assessment** | **4-6 Weeks Implementation** | **Ongoing Governance** |
-| Current state audit | Landing Zone deployment | 24/7 DevOps support |
-| Blueprint design | Security baseline hardening | FinOps optimization |
-| Cost roadmap | Pilot workload migration | Quarterly health checks |
-
----
-
-## 🤝 Contact Us
-
-Ready to accelerate your cloud journey?
-- **Web**: [devopstrio.com](https://devopstrio.com)
-- **Email**: [accelerator@devopstrio.com](mailto:accelerator@devopstrio.com)
-- **LinkedIn**: [Devopstrio Acceleration Partners](https://linkedin.com/company/devopstrio)
-
----
-
-© 2026 Devopstrio Acceleration Partners. MIT Licensed.
