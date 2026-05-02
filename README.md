@@ -13,9 +13,17 @@
 
 <br/>
 
-> **Devopstrio provides the definitive open-source reference for enterprise-grade infrastructure. This repository serves as the central index for our 180+ specialized accelerators across 15 technology domains.**
+> **Devopstrio provides the definitive open-source reference for enterprise-grade infrastructure. This repository serves as the central hub for our strategic documentation and the master index for our 180+ specialized accelerators.**
 
-</div>
+---
+
+## 🏛️ Repository Hub Navigation
+
+| Section | Description | Key Assets |
+| :--- | :--- | :--- |
+| 📁 [**Blueprints**](./blueprints) | Technical implementation foundations and IaC modules. | Terraform, Bicep, AWS, Azure, GCP, K8s |
+| 📖 [**Documentation**](./docs) | Strategic, executive, and operational guidance. | Operating Models, Delivery Guides, Pricing |
+| 🚀 [**Repository Index**](#-detailed-domain-catalog) | Complete catalog of 180+ open-source accelerators. | 15 Technology Domains |
 
 ---
 
@@ -68,22 +76,17 @@
 
 ```text
 / (Organization Root)
-├── enterprise-platform-lz/       # Foundations & IDP
-├── ai-genai-lz/                  # GenAI & ML Foundations
-├── data-platform-lz/             # Lakehouse & Data Mesh
-├── application-workload-lz/      # Compliant App Hosting
-├── devops-lz/                    # CI/CD & DevEx
-├── security-zero-trust-lz/       # Identity-Aware Networking
-├── compliance-regulatory-lz/     # Governance-as-Code
-├── finops-lz/                    # Cost & Sustainability
-├── operations-monitoring-lz/     # Observability Hub
-├── network-lz/                   # Global Transit
-├── identity-lz/                  # IAM & Federation
-├── avd-lz/                       # Virtual Desktop
-├── hybrid-migration-lz/          # Migration Factories
-├── bcdr-lz/                      # Backup & DR
-├── industry-lz/                  # FSI, Healthcare, Gov
-└── community/                    # Templates & Workshops
+├── blueprints/                   # Multi-cloud IaC & Implementation Hub
+│   ├── terraform/                # Global Terraform Module Registry
+│   ├── bicep/                    # Azure Native Bicep Accelerators
+│   ├── aws/                      # AWS Control Tower & EKS Blueprints
+│   ├── azure/                    # Azure ALZ & AKS Foundations
+│   └── gcp/                      # GCP Landing Zone & GKE Blueprints
+├── docs/                         # Strategic Documentation Hub
+│   ├── executive-overview.md     # High-level Platform Strategy
+│   ├── operating-model.md        # Cloud Center of Excellence (CCoE)
+│   └── delivery-model.md         # Agile Infrastructure Delivery
+└── repository-index/             # Catalog of 180+ specialized repos
 ```
 
 ---
