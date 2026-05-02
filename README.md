@@ -11,6 +11,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ce2453?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/company/devopstrioglobal/)
 [![Email](https://img.shields.io/badge/Email-Contact_Us-e79e57?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:info@devopstrioglobal.com)
 
+</div>
+
 <br/>
 
 > **Devopstrio provides the definitive open-source reference for enterprise-grade infrastructure. This repository serves as the central hub for our strategic documentation and the master index for our 180+ specialized accelerators.**
